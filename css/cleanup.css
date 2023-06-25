@@ -1,1 +1,56 @@
-/* write your override styles here */
+body{
+    margin: 0;
+    padding: 0;
+} 
+
+#wall {
+    margin: 0;
+    width: 980px;
+    height: 620px;
+    background: none;
+    box-shadow: none;
+    border: none;
+    border-bottom: none;
+}
+
+.tag-1 {
+    background: none;
+    z-index: inherit;
+    display: inherit;
+}
+
+#tag-2{
+    background: none;
+    z-index: inherit;
+    display: inherit;
+}
+
+#tag-3 {
+    background: none;
+    z-index: inherit;
+    display: inherit;
+}
+
+#tag-4 {
+    background: none;
+    z-index: inherit;
+    display: inherit;
+}
+
+#tag-5 {
+    background: none;
+    z-index: inherit;
+    display: inherit;
+}
+
+#tag-6 {
+    background: none;
+    z-index: inherit;
+    display: inherit;
+}
+
+#tag-7 {
+    background: none;
+    z-index: inherit;
+    display: inherit;
+}
